@@ -2,6 +2,8 @@
 
 Trying express app generator after grunt:init
 
+A basic TDD demonstration using grunt to build a Node, Express, jQuery app with nodeunit(server) and qunit(client)
+
 ## Getting Started
 Install the module with: `npm install basic-grunt-express`
 
@@ -22,11 +24,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ## Release History
 _(Nothing yet)_
 
-## License
-Copyright (c) 2012 Jesse Cravens  
-Licensed under the MIT license.
-=======
-basic-grunt-express
-===================
 
-A basic TDD demonstration using grunt to build a Node, Express, jQuery app with nodeunit(server) and qunit(client)
